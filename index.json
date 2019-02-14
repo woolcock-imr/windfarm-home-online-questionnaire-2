@@ -47,7 +47,7 @@
     "epworth-sleepiness-scale-6":       {"table_id":"91000010","url":"/modules/tasks/epworth-sleepiness-scale.html","form_module":"epworth-sleepiness-scale-6-form"},"epworth-sleepiness-scale-6-form": {"table_id":"91000010","url":"/modules/tasks/epworth-sleepiness-scale.form.html"},
     "dass-21-6":                        {"table_id":"91000013","url":"/modules/tasks/dass-21.html","form_module":"dass-21-6-form"},"dass-21-6-form": {"table_id":"91000013","url":"/modules/tasks/dass-21.form.html"},
     "visual-analogue-scale-6":          {"table_id":"91000049","url":"/modules/tasks/vas.html","form_module":"visual-analogue-scale-6-form"},"visual-analogue-scale-6-form": {"table_id":"91000049","url":"/modules/tasks/vas.form.html"},
-    "noise-annoyance-scale-6":          {"table_id":"91000069","url":"/modules/tasks/noise.html","form_module":"noise-annoyance-scale-6-form"},"noise-annoyance-scale-9-form": {"table_id":"91000069","url":"/modules/tasks/noise.form.html"},
+    "noise-annoyance-scale-6":          {"table_id":"91000069","url":"/modules/tasks/noise.html","form_module":"noise-annoyance-scale-6-form"},"noise-annoyance-scale-6-form": {"table_id":"91000069","url":"/modules/tasks/noise.form.html"},
     "n2-back-p":                        {"table_id":"91000070","url":"/modules/tasks/n-back.html","form_module":"n2-back-p-form"},"n2-back-p-form": {"table_id":"91000070","url":"/modules/tasks/n2-back-practice.form.html"},
 
     "quest_list":{
@@ -102,9 +102,6 @@
                 {"table_id":"91000069","task_name":"6 Month - Noise Annoyance Scale"},
                 {"table_id":"91000031","task_name":"6 Month - Tower of London"},
                 {"table_id":"91000028","task_name":"6 Month - N-back"}
-            ],
-            "6 Month":[
-                {"table_id":"91000070","task_name":"Practice - N-back"}
             ]
         }
     }
